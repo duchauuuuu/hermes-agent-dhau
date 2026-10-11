@@ -1,0 +1,7 @@
+model:
+  provider: openrouter
+  default: "THAY_BANG_MODEL_ID_CUA_BAN"
+
+terminal:
+  backend: local
+  cwd: "."
