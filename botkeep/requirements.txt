@@ -1,2 +1,0 @@
-hermes-agent[messaging]==0.19.0
-python-dotenv
